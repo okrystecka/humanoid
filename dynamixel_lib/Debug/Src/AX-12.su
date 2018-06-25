@@ -1,0 +1,4 @@
+AX-12.c:11:9:checkSum	8	static
+AX-12.c:19:6:sendData	32	static
+AX-12.c:36:6:LedOn	80	static
+AX-12.c:40:6:LedOff	80	static
