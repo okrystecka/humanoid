@@ -1,7 +1,0 @@
-AX-12.h:15:9:checkSum	8	static
-AX-12.h:23:6:sendData	32	static
-AX-12.h:40:6:LedOn	0	static
-AX-12.h:44:6:LedOff	0	static
-main.c:129:6:SystemClock_Config	96	static
-main.c:78:5:main	48	static
-main.c:267:6:_Error_Handler	0	static
